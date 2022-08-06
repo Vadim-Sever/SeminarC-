@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\bin\MCD\Debug\net6.0\Exam1.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\bin\MCD\Debug\net6.0\Exam1.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\bin\MCD\Debug\net6.0\Exam1.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\bin\MCD\Debug\net6.0\Exam1.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\bin\MCD\Debug\net6.0\Exam1.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\refint\Exam1.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\Exam1.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Exam1\obj\MCD\Debug\net6.0\ref\Exam1.dll
