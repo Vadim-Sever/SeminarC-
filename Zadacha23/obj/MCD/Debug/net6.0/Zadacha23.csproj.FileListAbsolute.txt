@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\bin\MCD\Debug\net6.0\Zadacha23.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\bin\MCD\Debug\net6.0\Zadacha23.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\bin\MCD\Debug\net6.0\Zadacha23.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\bin\MCD\Debug\net6.0\Zadacha23.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\bin\MCD\Debug\net6.0\Zadacha23.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\refint\Zadacha23.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\Zadacha23.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Zadacha23\obj\MCD\Debug\net6.0\ref\Zadacha23.dll

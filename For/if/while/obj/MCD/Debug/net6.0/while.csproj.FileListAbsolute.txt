@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\bin\MCD\Debug\net6.0\while.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\bin\MCD\Debug\net6.0\while.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\bin\MCD\Debug\net6.0\while.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\bin\MCD\Debug\net6.0\while.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\bin\MCD\Debug\net6.0\while.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\refint\while.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\while.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\For\if\while\obj\MCD\Debug\net6.0\ref\while.dll

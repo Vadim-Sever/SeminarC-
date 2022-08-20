@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\bin\MCD\Debug\net6.0\Max_9.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\bin\MCD\Debug\net6.0\Max_9.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\bin\MCD\Debug\net6.0\Max_9.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\bin\MCD\Debug\net6.0\Max_9.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\bin\MCD\Debug\net6.0\Max_9.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\refint\Max_9.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\Max_9.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_9\obj\MCD\Debug\net6.0\ref\Max_9.dll

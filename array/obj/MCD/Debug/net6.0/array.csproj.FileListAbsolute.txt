@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\bin\MCD\Debug\net6.0\array.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\bin\MCD\Debug\net6.0\array.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\bin\MCD\Debug\net6.0\array.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\bin\MCD\Debug\net6.0\array.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\bin\MCD\Debug\net6.0\array.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\refint\array.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\array.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\array\obj\MCD\Debug\net6.0\ref\array.dll

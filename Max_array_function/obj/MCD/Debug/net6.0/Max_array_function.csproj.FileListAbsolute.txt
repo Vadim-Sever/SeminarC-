@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\bin\MCD\Debug\net6.0\Max_array_function.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\bin\MCD\Debug\net6.0\Max_array_function.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\bin\MCD\Debug\net6.0\Max_array_function.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\bin\MCD\Debug\net6.0\Max_array_function.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\bin\MCD\Debug\net6.0\Max_array_function.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\refint\Max_array_function.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\Max_array_function.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max_array_function\obj\MCD\Debug\net6.0\ref\Max_array_function.dll
