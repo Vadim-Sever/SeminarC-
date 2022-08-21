@@ -6,7 +6,7 @@
 } 
 
 int[] array = {1,2,33,4,21,6,6,7,4,2,334,21};
-int n = array.Length;
+
 int find = 21;
 int index = 0;
 
