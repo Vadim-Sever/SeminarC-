@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\bin\MCD\Debug\net6.0\2merniimassiv.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\bin\MCD\Debug\net6.0\2merniimassiv.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\bin\MCD\Debug\net6.0\2merniimassiv.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\bin\MCD\Debug\net6.0\2merniimassiv.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\bin\MCD\Debug\net6.0\2merniimassiv.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\refint\2merniimassiv.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\2merniimassiv.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2merniimassiv\obj\MCD\Debug\net6.0\ref\2merniimassiv.dll

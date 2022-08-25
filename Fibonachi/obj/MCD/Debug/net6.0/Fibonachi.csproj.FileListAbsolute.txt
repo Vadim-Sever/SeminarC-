@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\bin\MCD\Debug\net6.0\Fibonachi.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\bin\MCD\Debug\net6.0\Fibonachi.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\bin\MCD\Debug\net6.0\Fibonachi.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\bin\MCD\Debug\net6.0\Fibonachi.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\bin\MCD\Debug\net6.0\Fibonachi.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\refint\Fibonachi.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\Fibonachi.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Fibonachi\obj\MCD\Debug\net6.0\ref\Fibonachi.dll

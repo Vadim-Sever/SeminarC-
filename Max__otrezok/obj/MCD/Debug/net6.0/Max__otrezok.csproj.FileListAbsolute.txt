@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\bin\MCD\Debug\net6.0\Max__otrezok.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\bin\MCD\Debug\net6.0\Max__otrezok.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\bin\MCD\Debug\net6.0\Max__otrezok.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\bin\MCD\Debug\net6.0\Max__otrezok.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\bin\MCD\Debug\net6.0\Max__otrezok.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\refint\Max__otrezok.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\Max__otrezok.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Max__otrezok\obj\MCD\Debug\net6.0\ref\Max__otrezok.dll

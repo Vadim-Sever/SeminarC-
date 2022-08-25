@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\bin\MCD\Debug\net6.0\Templeate_seminar.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\bin\MCD\Debug\net6.0\Templeate_seminar.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\bin\MCD\Debug\net6.0\Templeate_seminar.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\bin\MCD\Debug\net6.0\Templeate_seminar.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\bin\MCD\Debug\net6.0\Templeate_seminar.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\refint\Templeate_seminar.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\Templeate_seminar.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Templeate_seminar\obj\MCD\Debug\net6.0\ref\Templeate_seminar.dll
