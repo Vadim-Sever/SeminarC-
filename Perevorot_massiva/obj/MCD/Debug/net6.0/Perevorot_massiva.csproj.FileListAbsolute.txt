@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\bin\MCD\Debug\net6.0\Perevorot_massiva.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\bin\MCD\Debug\net6.0\Perevorot_massiva.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\bin\MCD\Debug\net6.0\Perevorot_massiva.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\bin\MCD\Debug\net6.0\Perevorot_massiva.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\bin\MCD\Debug\net6.0\Perevorot_massiva.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\refint\Perevorot_massiva.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\Perevorot_massiva.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Perevorot_massiva\obj\MCD\Debug\net6.0\ref\Perevorot_massiva.dll

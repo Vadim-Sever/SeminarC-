@@ -58,7 +58,7 @@ Console.WriteLine(number1);
 //     // y = int.Parse(Console.ReadLine() ?? "");
 
 // }
-// catch (Exception exc)
+// catch (Exception exc) // вызываем класс Учуезешщ и у его внутри есть установленная переменная exc
 // {
 //     Console.WriteLine($"Ошибка ввода {exc.Message}");
 // }

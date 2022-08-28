@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\bin\MCD\Debug\net6.0\2massiv_fill.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\bin\MCD\Debug\net6.0\2massiv_fill.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\bin\MCD\Debug\net6.0\2massiv_fill.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\bin\MCD\Debug\net6.0\2massiv_fill.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\bin\MCD\Debug\net6.0\2massiv_fill.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\refint\2massiv_fill.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\2massiv_fill.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\2massiv_fill\obj\MCD\Debug\net6.0\ref\2massiv_fill.dll
