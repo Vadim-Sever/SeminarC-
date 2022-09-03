@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\bin\MCD\Debug\net6.0\String_parser.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\bin\MCD\Debug\net6.0\String_parser.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\bin\MCD\Debug\net6.0\String_parser.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\bin\MCD\Debug\net6.0\String_parser.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\bin\MCD\Debug\net6.0\String_parser.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\refint\String_parser.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\String_parser.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\String_parser\obj\MCD\Debug\net6.0\ref\String_parser.dll

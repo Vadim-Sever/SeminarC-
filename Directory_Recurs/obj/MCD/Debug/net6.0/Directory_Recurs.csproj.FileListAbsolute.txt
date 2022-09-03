@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\bin\MCD\Debug\net6.0\Directory_Recurs.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\bin\MCD\Debug\net6.0\Directory_Recurs.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\bin\MCD\Debug\net6.0\Directory_Recurs.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\bin\MCD\Debug\net6.0\Directory_Recurs.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\bin\MCD\Debug\net6.0\Directory_Recurs.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\refint\Directory_Recurs.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\Directory_Recurs.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Directory_Recurs\obj\MCD\Debug\net6.0\ref\Directory_Recurs.dll
